@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.consubanco.prueba_unit_test.PruebaUnitTestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.679 s -- in com.consubanco.prueba_unit_test.PruebaUnitTestApplicationTests
